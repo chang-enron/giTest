@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# print("Hello", "World")
+print("Hello", "World")
 '''
 a = 1;
 if  a:
@@ -29,10 +29,11 @@ try:
 except ValueError as err:
     print(err)
 '''
+'''
 import sys
 
 def myname (age):
     print(age)
 
 myname (sys.argv[1])
-
+'''
